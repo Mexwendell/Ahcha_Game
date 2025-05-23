@@ -72,3 +72,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Ahcha_Prototype/Saved
+/Ahcha_Prototype/Intermediate
