@@ -74,4 +74,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 /Ahcha_Prototype/Saved
 /Ahcha_Prototype/Intermediate
+/Ahcha_Game/Saved
+/Ahcha_Game/Intermediate
 *.blend1
