@@ -77,3 +77,4 @@ DerivedDataCache/*
 /Ahcha_Game/Saved
 /Ahcha_Game/Intermediate
 *.blend1
+/Ahcha_Game/Plugins/BlueprintAssist
